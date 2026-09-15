@@ -1,0 +1,2 @@
+/nix/store/zxy53nzkvzpc9sl89lrhfmw28af8b1bl-replit-runtime-path/bin/ar qc libbenchmark_main.a CMakeFiles/benchmark_main.dir/benchmark_main.cc.o
+/nix/store/zxy53nzkvzpc9sl89lrhfmw28af8b1bl-replit-runtime-path/bin/ranlib libbenchmark_main.a

@@ -1,1 +1,0 @@
-/nix/store/zxy53nzkvzpc9sl89lrhfmw28af8b1bl-replit-runtime-path/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/unit_tests.dir/link.d CMakeFiles/unit_tests.dir/tests/test_order_book.cpp.o -o unit_tests  liborderbook_core.a lib/libgtest.a lib/libgtest_main.a lib/libgtest.a

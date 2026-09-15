@@ -1,2 +1,0 @@
-/nix/store/zxy53nzkvzpc9sl89lrhfmw28af8b1bl-replit-runtime-path/bin/ar qc ../../../lib/libgmock_main.a CMakeFiles/gmock_main.dir/src/gmock_main.cc.o
-/nix/store/zxy53nzkvzpc9sl89lrhfmw28af8b1bl-replit-runtime-path/bin/ranlib ../../../lib/libgmock_main.a

@@ -1,1 +1,0 @@
-/nix/store/zxy53nzkvzpc9sl89lrhfmw28af8b1bl-replit-runtime-path/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/smoke_test.dir/link.d CMakeFiles/smoke_test.dir/examples/smoke_test.cpp.o -o smoke_test  liborderbook_core.a

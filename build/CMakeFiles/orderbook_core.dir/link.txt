@@ -1,2 +1,0 @@
-/nix/store/zxy53nzkvzpc9sl89lrhfmw28af8b1bl-replit-runtime-path/bin/ar qc liborderbook_core.a CMakeFiles/orderbook_core.dir/src/order_book.cpp.o
-/nix/store/zxy53nzkvzpc9sl89lrhfmw28af8b1bl-replit-runtime-path/bin/ranlib liborderbook_core.a
